@@ -1,0 +1,12 @@
+/* Enter Your Custom CSS Here */
+
+.tribe-button, a.tribe-button, button.tribe-button, input.tribe-button {
+    padding: 12px 20px;
+    color: white;
+		background-color: #0f7783;
+    text-transform: uppercase;
+}
+
+.tribe-related-events-thumbnail {
+    display: none;
+}
