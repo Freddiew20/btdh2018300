@@ -703,7 +703,7 @@ html.fp-enabled,
 .layout-two-col-text-right-img-left .section-img, .location-2-col .section-img, .layout-full-cta, .photo-grid .photo-block, .hero .hero-image, .hero .hero-content {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center bottom; }
+  background-position: center top; }
 
 .home .homeScrollSnap .panel, .home .homeScrollSnap .fp-tableCell, .our-team .ministry-leader .ministry-leader-photo .img, .message-series .hero,
 .post-type-archive-messages .hero,
@@ -713,7 +713,7 @@ html.fp-enabled,
 .category .hero,
 .archive.date .hero, .hero.heroContentRight.bigHero .hero-bg-img, .hero.heroContentRight.smallHero .hero-bg-img, .layout-video-full, .layout-two-col-text-left-img-right .section-img,
 .layout-two-col-text-right-img-left .section-img, .location-2-col .section-img, .layout-full-cta, .photo-grid .photo-block, .hero .hero-image, .hero .hero-content {
-  background-position: left center; }
+  background-position: center center; }
 
 #fancyWrap, .site-frame, .contact-services-flyout,
 .events-flyout, .search-wrapper, .share-wrapper, .home .panel .video-wrap, .hero.heroContentRight.bigHero .hero-bg-img, .hero.heroContentRight.smallHero .hero-bg-img, .darkOverlay, .hazeOverlay {
@@ -3962,10 +3962,9 @@ body.eventsHovered .events-trigger span {
 .hero.heroContentRight {
   position: relative; }
   .hero.heroContentRight.bigHero .hero-bg-img {
-    left: 15%; 
-  }
+    left: -25%; }
   .hero.heroContentRight.smallHero .hero-bg-img {
-    width: 100%; }
+    width: 50%; }
   .hero.heroContentRight.wideHero .hero-content {
     width: 100%;
     float: none;
