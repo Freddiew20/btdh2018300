@@ -576,7 +576,7 @@ html.fp-enabled,
     position: absolute;
     top: -2px;
     color: #fff;
-    font-size: 14px;
+    font-size: 0.875em;
     font-family: arial, helvetica, sans-serif;
     white-space: nowrap;
     max-width: 220px;
@@ -730,7 +730,7 @@ html.fp-enabled,
   text-indent: -26px; }
 .search-results .hero .section-subheading h3,
 .search-no-results .hero .section-subheading h3 {
-  font-size: 18px;
+  font-size: 1.125em;
   line-height: 22px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -769,13 +769,13 @@ html.fp-enabled,
   .search-results .hero .section-heading h1 {
     text-indent: -23px; }
   .search-results .hero .section-subheading h3 {
-    font-size: 17px;
+    font-size: 1.063em;
     line-height: 20px; } }
 @media only screen and (max-width: 1140px) {
   .search-results .hero .section-heading h1 {
     text-indent: -22px; }
   .search-results .hero .section-subheading h3 {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 20px;
     letter-spacing: 1px; } }
 @media only screen and (max-width: 1024px) {
@@ -788,31 +788,31 @@ html.fp-enabled,
   .search-results .hero .section-heading h1 {
     text-indent: 0; }
   .search-results .hero .section-subheading h3 {
-    font-size: 18px;
+    font-size: 1.125em;
     line-height: 22px;
     letter-spacing: 2px; } }
 @media only screen and (max-width: 680px) {
   .search-results .hero .section-subheading h3 {
-    font-size: 17px;
+    font-size: 1.063em;
     line-height: 20px; } }
 @media only screen and (max-width: 580px) {
   .search-results .hero .section-subheading h3 {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 20px;
     letter-spacing: 1px; } }
 @media only screen and (max-width: 540px) {
   .search-results .container.isContentArea article h2 {
-    font-size: 26px;
+    font-size: 1.6em;
     line-height: 30px; } }
 @media only screen and (max-width: 400px) {
   .search-results .hero .section-subheading h3 {
-    font-size: 15px;
+    font-size: 0.938em;
     line-height: 19px; }
   .search-results .container.isContentArea article h2 {
-    font-size: 22px;
+    font-size: 1.375em;
     line-height: 26px; }
   .search-results .container.isContentArea article p {
-    font-size: 15px;
+    font-size: 0.938em;
     line-height: 25px; } }
 /*  SECTIONS  ============================================================================= */
 .section {
@@ -837,7 +837,7 @@ html.fp-enabled,
 /*  GRID COLUMN SETUP   ==================================================================== */
 .col {
   display: inline-block;
-  font-size: 16px;
+  font-size: 1em;
   vertical-align: top;
   margin: 1% 0 1% 1.6%; }
 
@@ -1034,7 +1034,7 @@ html.fp-enabled,
     width: 100%;
     height: 100%;
     font-family: 'Times New Roman';
-    font-size: 42px;
+    font-size: 1.640em;
     line-height: 42px;
     text-align: center;
     padding-top: 14px; }
@@ -1050,7 +1050,7 @@ html.fp-enabled,
     padding-top: 20px; }
     .list-grid .list-item-heading .list-item-title h2 {
       margin: 0 0 20px 30px;
-      font-size: 52px;
+      font-size: 3em;
       line-height: 52px;
       max-width: calc(100% - 240px); }
       .list-grid .list-item-heading .list-item-title h2 a {
@@ -1073,7 +1073,7 @@ html.fp-enabled,
       display: inline-block;
       padding: 18px 28px 12px;
       color: #777777;
-      font-size: 16px;
+      font-size: 1em;
       line-height: 20px;
       text-transform: uppercase;
       letter-spacing: 2px;
@@ -1111,7 +1111,7 @@ html.fp-enabled,
       margin-left: 0; }
 
   .list-grid .list-item-heading .list-item-title h2 {
-    font-size: 46px;
+    font-size: 2.9em;
     line-height: 46px; } }
 @media only screen and (max-width: 1140px) {
   .filtered-grid.filtered-grid-bar .span_3_of_12,
@@ -1159,10 +1159,10 @@ html.fp-enabled,
       height: 65px;
       margin-top: 28px; }
     .list-grid.list-grid-numbered .list-grid-item .inner {
-      font-size: 34px;
+      font-size: 2.125em;
       line-height: 34px; }
   .list-grid .list-item-heading .list-item-title h2 {
-    font-size: 40px;
+    font-size: 2.500em;
     line-height: 40px;
     max-width: calc(100% - 210px); } }
 @media only screen and (max-width: 768px) {
@@ -1177,11 +1177,11 @@ html.fp-enabled,
       height: 54px;
       margin-top: 32px; }
     .list-grid.list-grid-numbered .list-grid-item .inner {
-      font-size: 28px;
+      font-size: 1.750em;
       line-height: 28px;
       padding-top: 12px; }
   .list-grid .list-item-heading .list-item-title h2 {
-    font-size: 34px;
+    font-size: 2.125em;
     line-height: 34px;
     max-width: calc(100% - 200px); } }
 @media only screen and (max-width: 680px) {
@@ -1230,7 +1230,7 @@ html.fp-enabled,
   .list-grid .list-grid-item {
     margin-bottom: 14%; }
   .list-grid .list-item-heading .list-item-title h2 {
-    font-size: 34px;
+    font-size: 2.125em;
     line-height: 34px;
     max-width: 100%;
     margin-top: 50px;
@@ -1248,15 +1248,15 @@ html.fp-enabled,
     width: 43px;
     height: 43px; }
   .list-grid.list-grid-numbered .list-grid-item .inner {
-    font-size: 22px;
+    font-size: 1.313em;
     line-height: 22px;
     padding-top: 10px; }
   .list-grid .list-item-heading .list-item-title h2 {
-    font-size: 28px;
+    font-size: 1.750em;
     line-height: 28px;
     margin-top: 40px; }
   .list-grid .list-item-heading ul.list-item-details li {
-    font-size: 14px;
+    font-size: 0.875em;
     line-height: 18px;
     letter-spacing: 1px; } }
 @media only screen and (max-width: 450px) {
@@ -1439,7 +1439,7 @@ html {
   height: 100%; }
 
 body {
-  font-size: 16px;
+  font-size: 1em;
   line-height: 20px;
   font-weight: 300;
   font-family: "palanquin", Helvetica, sans-serif;
@@ -1719,7 +1719,7 @@ body.home .site-wrapper {
     background-size: 109px 39px; }
   .main-menu .first-half,
   .main-menu .last-half {
-    font-size: 16px;
+    font-size: 1em;
     display: inline-block;
     vertical-align: top;
     width: calc(50% - 53px); }
@@ -1915,7 +1915,7 @@ body.home .site-wrapper {
     font-size: 18px;
     line-height: 25px; }
   .contact-services-flyout .fine-print {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 18px;
     display: block;
     width: 100%;
@@ -1950,7 +1950,7 @@ body.home .site-wrapper {
         display: inline;
         margin-right: 6px; }
       .contact-services-flyout .important-info.locations-info h3.section-title .fine-print {
-        font-size: 16px;
+        font-size: 1em;
         line-height: 18px;
         display: inline;
         width: 100%;
@@ -1984,7 +1984,7 @@ body.home .site-wrapper {
         background-color: #0C7883; }
     .contact-services-flyout .important-info .left-col,
     .contact-services-flyout .important-info .right-col {
-      font-size: 16px;
+      font-size: 1em;
       display: inline-block;
       vertical-align: top; }
     .contact-services-flyout .important-info .left-col {
@@ -1997,7 +1997,7 @@ body.home .site-wrapper {
   .contact-services-flyout .gathering-times {
     display: block;
     margin-top: 16px;
-    font-size: 16px; }
+    font-size: 1em;
     .contact-services-flyout .gathering-times .gathering-time {
       display: block;
       margin-bottom: 10px; }
@@ -2314,7 +2314,7 @@ body.eventsHovered .events-trigger span {
     transition: z-index 0.3s, step-start, opacity 0.3s linear; }
   .mobile-secondary-toggles .contact-toggle span,
   .mobile-secondary-toggles .events-toggle span {
-    font-size: 16px;
+    font-size: 1em;
     text-align: center;
     padding: 26px 20px;
     text-transform: uppercase;
@@ -2372,7 +2372,7 @@ body.eventsHovered .events-trigger span {
         width: 100%; }
         .mobile-sub-menu-wrapper ul.sub-menu li .link-wrap a {
           color: #292728;
-          font-size: 16px;
+          font-size: 1em;
           line-height: 20px;
           text-transform: uppercase;
           letter-spacing: 1px; }
@@ -2397,14 +2397,15 @@ body.eventsHovered .events-trigger span {
     line-height: 26px;
     margin-bottom: 16px; }
   .contact-services-flyout p {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px; }
   .contact-services-flyout ul li {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px; }
 
   .events-flyout .featured-events-list .event-title {
-    font-size: 16px; } }
+    font-size: 1em;
+  } }
 @media only screen and (max-width: 1140px) {
   .main-menu-items ul li {
     margin-right: 30px; }
@@ -2584,10 +2585,10 @@ body.eventsHovered .events-trigger span {
     line-height: 26px;
     margin-bottom: 16px; }
   .contact-services-flyout p {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px; }
   .contact-services-flyout ul li {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px; }
 
   .events-flyout h3 {
@@ -2595,16 +2596,19 @@ body.eventsHovered .events-trigger span {
     line-height: 26px;
     margin-bottom: 16px; }
   .events-flyout .featured-events-list .event-title {
-    font-size: 16px; }
+    font-size: 1em;
+  }
 
   .share-wrapper h2 {
     font-size: 32px;
     line-height: 34px; }
   .share-wrapper .series-message-share-heading {
-    font-size: 14px; }
+    font-size: 1em;
+  }
   .share-wrapper .share-info h3.series-tag,
   .share-wrapper .share-links h3.series-tag {
-    font-size: 14px; }
+    font-size: 1em;
+  }
   .share-wrapper .share-info ul li,
   .share-wrapper .share-links ul li {
     margin: 0 4px 10px; }
@@ -2615,7 +2619,8 @@ body.eventsHovered .events-trigger span {
       min-width: 104px; }
 
   .search-wrapper form.search .search-directions p {
-    font-size: 14px; } }
+    font-size: 1em;
+  } }
 @media only screen and (max-width: 469px) {
   .contact-services-flyout .inner,
   .events-flyout .inner {
@@ -2829,7 +2834,7 @@ body.eventsHovered .events-trigger span {
     font-size: 14px;
     padding: 16px; }
   .footer-wrap .footer-subscribe p {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px; }
   .footer-wrap .footer {
     padding-top: 0; }
@@ -2978,7 +2983,7 @@ body.eventsHovered .events-trigger span {
     max-width: 250px;
     margin: 0 0 0 8%; }
   .home .panel p {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 28px; } }
 @media only screen and (max-width: 960px) {
   .home .next-panel-arrow {
@@ -3061,7 +3066,7 @@ body.eventsHovered .events-trigger span {
     line-height: 21px;
     margin-top: 10px; }
   .our-team .ministry-leader a {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 22px; }
   .our-team .ministry-leader span.divLine {
     display: block;
@@ -3183,15 +3188,15 @@ body.eventsHovered .events-trigger span {
     font-size: 22px;
     line-height: 26px; }
   .our-team .department-line h3 {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 20px;
     margin-top: 0; }
   .our-team .department-line a {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 20px; } }
 @media only screen and (max-width: 768px) {
   .our-team .department-section .department-section-heading {
-    font-size: 24px;
+    font-size: 1em;
     line-height: 26px; }
   .our-team .department-line {
     margin-bottom: 10px; }
@@ -3204,7 +3209,7 @@ body.eventsHovered .events-trigger span {
       font-size: 20px;
       line-height: 24px; }
     .our-team .department-line h3 {
-      font-size: 14px;
+  font-size: 1em;
       line-height: 18px;
       margin-top: 0; }
     .our-team .department-line a {
@@ -3327,7 +3332,7 @@ body.eventsHovered .events-trigger span {
     line-height: 38px;
     margin-bottom: 16px; }
   .giving .full-width-section .scripture-box .scripture-citation {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 26px; }
   .giving .layout-two-text-columns .split-50-right {
     margin-top: 12%; } }
@@ -3397,7 +3402,7 @@ body.eventsHovered .events-trigger span {
       .single-post .hero .hero-content .section-heading h3,
       .category .hero .hero-content .section-heading h3,
       .archive.date .hero .hero-content .section-heading h3 {
-        font-size: 16px;
+        font-size: 1em;
         line-height: 24px;
         margin: 0 0 18px;
         text-transform: uppercase;
@@ -4275,7 +4280,7 @@ body.eventsHovered .events-trigger span {
             justify-content: space-between;
     padding: 0 5%; }
     .layout-tabbed-content-section .section-tabs .tabbed-content-pager li {
-      font-size: 16px;
+      font-size: 1em;
       display: inline-block;
       margin: 0 4px; }
       .layout-tabbed-content-section .section-tabs .tabbed-content-pager li:last-child {
@@ -4320,7 +4325,7 @@ body.eventsHovered .events-trigger span {
       display: block; }
     .single .post-header .post-header-title h3 {
       padding: 20px 0;
-      font-size: 16px;
+      font-size: 1em;
       text-transform: uppercase;
       letter-spacing: 2px; }
   .single .post-header .post-share-btn,
@@ -4330,7 +4335,7 @@ body.eventsHovered .events-trigger span {
     .single .post-header .post-share-btn a,
     .single .post-header .post-close-btn a {
       position: absolute;
-      font-size: 16px;
+      font-size: 1em;
       color: #292728;
       text-align: center;
       text-transform: uppercase;
@@ -4470,7 +4475,7 @@ body.eventsHovered .events-trigger span {
     margin-bottom: 7px; } }
 @media only screen and (max-width: 1140px) {
   .single .hero .section-subheading h3 {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 20px;
     margin-bottom: 6px;
     letter-spacing: 1px; } }
@@ -4479,7 +4484,7 @@ body.eventsHovered .events-trigger span {
     border: 0; } }
 @media only screen and (max-width: 900px) {
   .single .hero .section-subheading h3 {
-    font-size: 15px;
+    font-size: 1em;
     line-height: 19px;
     margin-bottom: 5px; }
   .single .post-footer .prev-post a,
@@ -4489,29 +4494,29 @@ body.eventsHovered .events-trigger span {
     padding: 24px 26px; }
   .single .post-footer .prev-post .post-title h4,
   .single .post-footer .next-post .post-title h4 {
-    font-size: 15px;
+    font-size: 1em;
     letter-spacing: 1px; }
   .single .post-footer .prev-post .next-prev-tag,
   .single .post-footer .next-post .next-prev-tag {
-    font-size: 15px;
+    font-size: 1em;
     letter-spacing: 1px; } }
 @media only screen and (max-width: 768px) {
   .single .post-header .post-header-title {
     width: calc(100% - 280px); }
     .single .post-header .post-header-title h3 {
-      font-size: 15px;
+      font-size: 1em;
       padding: 15px 0; }
   .single .post-header .post-share-btn,
   .single .post-header .post-close-btn {
     width: 130px; }
     .single .post-header .post-share-btn a,
     .single .post-header .post-close-btn a {
-      font-size: 15px; }
-    .single .post-header .post-share-btn .inner .text,
+      font-size: 1em;
+      .single .post-header .post-share-btn .inner .text,
     .single .post-header .post-close-btn .inner .text {
       padding: 24px 0; }
   .single .hero .section-subheading h3 {
-    font-size: 18px;
+    font-size: 1.1em;
     line-height: 22px;
     margin-bottom: 8px;
     letter-spacing: 2px; }
@@ -4548,13 +4553,13 @@ body.eventsHovered .events-trigger span {
   .single .post-header .post-share-btn {
     width: 90px; }
   .single .hero .section-subheading h3 {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 20px;
     margin-bottom: 6px;
     letter-spacing: 1px; } }
 @media only screen and (max-width: 400px) {
   .single .hero .section-subheading h3 {
-    font-size: 15px;
+    font-size: 1em;
     line-height: 19px;
     margin-bottom: 5px; } }
 .single-job-opportunities .hero-content .inner {
@@ -4622,7 +4627,7 @@ body.eventsHovered .events-trigger span {
     margin-bottom: 2.5%; }
     .filtered-grid-bar.blog-filter-bar .item-type-filters ul li,
     .filtered-grid-bar.blog-filter-bar .archive-filters ul li {
-      font-size: 16px;
+      font-size: 1em;
       line-height: 23px;
       margin-bottom: 1px; }
     .filtered-grid-bar.blog-filter-bar .item-type-filters,
@@ -4954,13 +4959,13 @@ body.eventsHovered .events-trigger span {
   margin: 32px 0 24px; }
 .isContentArea h4 {
   color: #AC9832;
-  font-size: 16px;
+  font-size: 1em;
   line-height: 24px;
   margin: 40px 0 18px;
   text-transform: uppercase;
   letter-spacing: 2px; }
 .isContentArea h5 {
-  font-size: 16px;
+  font-size: 1em;
   line-height: 25px;
   margin: 32px 0 18px; }
 .isContentArea p {
@@ -5050,17 +5055,17 @@ body.eventsHovered .events-trigger span {
     font-size: 38px;
     line-height: 36px; }
   .isContentArea p {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 28px;
     margin-bottom: 26px; }
   .isContentArea ul,
   .isContentArea ol {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 28px;
     margin-bottom: 18px; }
     .isContentArea ul li,
     .isContentArea ol li {
-      font-size: 16px;
+      font-size: 1em;
       line-height: 24px;
       margin-bottom: 11px; } }
 @media only screen and (max-width: 900px) {
@@ -5197,7 +5202,7 @@ body.eventsHovered .events-trigger span {
   .btn.btn--tiny {
     letter-spacing: 0;
     display: inline-block;
-    font-size: 16px;
+    font-size: 1em;
     padding: 12px 16px; }
 
 .isDarkGray .btn {
@@ -5258,21 +5263,21 @@ body.eventsHovered .events-trigger span {
 
 @media only screen and (max-width: 1024px) {
   .btn {
-    font-size: 17px;
+    font-size: 1em;
     padding: 18px 28px; }
     .btn.btn--video, .btn.btn--square {
       display: inline-block;
       padding: 50px 28px; } }
 @media only screen and (max-width: 768px) {
   .btn {
-    font-size: 16px;
+    font-size: 1em;
     padding: 16px 25px; }
     .btn.btn--video, .btn.btn--square {
       display: inline-block;
       padding: 46px 25px; } }
 @media only screen and (max-width: 580px) {
   .btn {
-    font-size: 15px;
+    font-size: 0.9em;
     padding: 14px 22px; }
     .btn.btn--video, .btn.btn--square {
       display: inline-block;
@@ -5378,7 +5383,7 @@ body.eventsHovered .events-trigger span {
 @media only screen and (max-width: 1440px) {
   .filtered-grid-bar .item-type-filters ul li,
   .filtered-grid-bar .archive-filters ul li {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px;
     margin-bottom: 1px; }
   .filtered-grid-bar .archive-filters ul li {
@@ -5394,7 +5399,7 @@ body.eventsHovered .events-trigger span {
 @media only screen and (max-width: 1140px) {
   .filtered-grid-bar .item-type-filters ul li,
   .filtered-grid-bar .archive-filters ul li {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px;
     margin-bottom: 1px; }
   .filtered-grid-bar .archive-filters ul li {
@@ -5402,7 +5407,7 @@ body.eventsHovered .events-trigger span {
 @media only screen and (max-width: 1024px) {
   .filtered-grid-bar .item-type-filters ul li,
   .filtered-grid-bar .archive-filters ul li {
-    font-size: 17px;
+    font-size: 1em;
     line-height: 24px;
     margin-bottom: 2px; }
   .filtered-grid-bar .archive-filters ul li {
@@ -5412,25 +5417,25 @@ body.eventsHovered .events-trigger span {
   .filtered-grid-bar .item-type-filters .filter-archive-toggle,
   .filtered-grid-bar .archive-filters .filter-type-toggle,
   .filtered-grid-bar .archive-filters .filter-archive-toggle {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 20px; }
   .filtered-grid-bar .item-type-filters .filter-list,
   .filtered-grid-bar .archive-filters .filter-list {
     top: 64px; }
   .filtered-grid-bar .item-type-filters ul li,
   .filtered-grid-bar .archive-filters ul li {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px;
     margin-bottom: 1px; }
   .filtered-grid-bar .archive-filters ul li {
     line-height: 18px; }
   .filtered-grid-bar .filter-heading h4 {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 20px; } }
 @media only screen and (max-width: 680px) {
   .filtered-grid-bar .item-type-filters ul li,
   .filtered-grid-bar .archive-filters ul li {
-    font-size: 17px;
+    font-size: 1em;
     line-height: 24px;
     margin-bottom: 2px; }
   .filtered-grid-bar .archive-filters ul li {
@@ -5438,7 +5443,7 @@ body.eventsHovered .events-trigger span {
 @media only screen and (max-width: 520px) {
   .filtered-grid-bar .item-type-filters ul li,
   .filtered-grid-bar .archive-filters ul li {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px;
     margin-bottom: 1px; }
   .filtered-grid-bar .archive-filters ul li {
@@ -5446,7 +5451,7 @@ body.eventsHovered .events-trigger span {
 @media only screen and (max-width: 450px) {
   .filtered-grid-bar .item-type-filters ul li,
   .filtered-grid-bar .archive-filters ul li {
-    font-size: 17px;
+    font-size: 1em;
     line-height: 24px;
     margin-bottom: 2px; }
   .filtered-grid-bar .archive-filters ul li {
@@ -5457,7 +5462,7 @@ body.eventsHovered .events-trigger span {
 @media only screen and (max-width: 380px) {
   .filtered-grid-bar .item-type-filters ul li,
   .filtered-grid-bar .archive-filters ul li {
-    font-size: 16px;
+    font-size: 1em;
     line-height: 23px;
     margin-bottom: 1px; }
   .filtered-grid-bar .archive-filters ul li {
