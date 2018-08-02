@@ -2,6 +2,12 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+
+@font-face {
+  font-family: palanquin;
+  src: url(palanquin-regular.ttf);
+}
+
 @import url(libs/jquery.bxslider.css);
 @import url(libs/jquery.fancybox.css);
 @import url(libs/fancybox-helpers/jquery.fancybox-buttons.css);
@@ -634,11 +640,11 @@ html.fp-enabled,
 .filtered-grid-bar .item-type-filters .filter-archive-toggle,
 .filtered-grid-bar .archive-filters .filter-type-toggle,
 .filtered-grid-bar .archive-filters .filter-archive-toggle, .filtered-grid-bar .filter-heading h4 {
-  font-family: "soleil", Helvetica, sans-serif;
+  font-family: "palanquin", Helvetica, sans-serif;
   font-weight: 400; }
 
 .contact-services-flyout .gathering-times .gathering-time .day, .footer-wrap .footer .footer-copyright .harbr-credit .bold {
-  font-family: "soleil", Helvetica, sans-serif;
+  font-family: "palanquin", Helvetica, sans-serif;
   font-weight: 600; }
 
 .contact-services-flyout .fine-print, .contact-services-flyout .important-info.locations-info h3.section-title .fine-print, .mobile-sub-menu-wrapper ul.sub-menu .go-back, .giving .full-width-section .scripture-box .scripture-text, .mobile-menu ul.menu li, .mobile-sub-menu-wrapper ul.sub-menu h3 {
@@ -1438,7 +1444,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   font-weight: 300;
-  font-family: "soleil", Helvetica, sans-serif;
+  font-family: "palanquin", Helvetica, sans-serif;
   background: #fff;
   color: #292728;
   height: 100%;

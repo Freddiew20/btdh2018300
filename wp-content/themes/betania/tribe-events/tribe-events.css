@@ -1,6 +1,6 @@
 .search-results .hero .section-subheading h3,
 .search-no-results .hero .section-subheading h3 {
-  font-family: "soleil", Helvetica, sans-serif;
+  font-family: "palanquin", Helvetica, sans-serif;
   font-weight: 400; }
 
 .tribe-theme-hillside h2.tribe-events-page-title, .tribe-theme-hillside .tribe-events-list .tribe-events-list-separator-month span .month-name,
@@ -140,6 +140,11 @@
 .search-no-results .site-frame .frame-bottom {
   display: none; }
 
+  @font-face {
+    font-family: palanquin;
+    src: url(palanquin-regular.ttf);
+  }
+  
 @media only screen and (max-width: 1280px) {
   .search-results .hero .section-heading h1 {
     text-indent: -23px; }
@@ -221,7 +226,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   font-weight: 300;
-  font-family: "soleil", Helvetica, sans-serif;
+  font-family: "palanquin", Helvetica, sans-serif;
   background: #fff;
   color: #292728;
   height: 100%;
