@@ -4511,8 +4511,8 @@ body.eventsHovered .events-trigger span {
     width: 130px; }
     .single .post-header .post-share-btn a,
     .single .post-header .post-close-btn a {
-      font-size: 1em;
-      .single .post-header .post-share-btn .inner .text,
+      font-size: 1em;}
+    .single .post-header .post-share-btn .inner .text,
     .single .post-header .post-close-btn .inner .text {
       padding: 24px 0; }
   .single .hero .section-subheading h3 {
