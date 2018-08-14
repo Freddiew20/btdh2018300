@@ -40,6 +40,55 @@
       <link rel='stylesheet' id='sccss_style-css' href='index.css?sccss=1&#038;ver=4.9.6' media='all'>
       <script type='text/javascript' src='wp-content\themes\betania\js\libs\jquery.js?ver=2.1.1'></script>
       <script type='text/javascript' src='wp-content\themes\betania\js\libs\retina.min.js?ver=1.3.0'></script>
+     <script type="text/javascript">
+  var indice = 0, frases = new Array(); 
+ frases[0] = "PRUEBA DE SLIDER QUE CAMBIA"; 
+ frases[1] = "Cambia mucho..."; 
+ frases[2] = "Soy un crack del javascript"; 
+ frases[3] = "FUNCIONA OUH YEAH"; 
+ 
+ indice = Math.random()*(frases.length); 
+ indice = Math.floor(indice); 
+ 
+ function rotar(v) {
+ if (indice >= frases.length ) indice = Math.floor(Math.random()*(frases.length)); 
+ document.getElementById(v).innerHTML = frases[indice]; 
+ indice++;
+ setTimeout(function(){console.log(indice); rotar(v);},1000); 
+ } 
+ 
+ 
+ </script> 
+
+<!-- <p>
+           Compartimos del amor de Jesús y Su Palabra en Montequinto y su entorno
+                                    </p> -->
+
+                                    <!-- <p>Un lugar para crecer</p>
+          <p></p>Damos a conocer a Jesús y motivamos a seguirlo en los diferentes aspectos de la vida</p>
+          <p> Alcanzando, cuidando, creciendo y  desarrollando.</p> -->
+
+<script type="text/javascript">
+      var indice = 0, frases = new Array(); 
+     frases[0] = "Compartimos del amor de Jesús y Su Palabra en Montequinto y su entorno"; 
+     frases[1] = "Un lugar para crecer"; 
+     frases[2] = "Damos a conocer a Jesús y motivamos a seguirlo en los diferentes aspectos de la vida"; 
+     frases[3] = "Alcanzando, cuidando, creciendo y desarrollando"; 
+     
+     indice = Math.random()*(frases.length); 
+     indice = Math.floor(indice); 
+     
+     function rotar(v) {
+     if (indice >= frases.length ) indice = Math.floor(Math.random()*(frases.length)); 
+     document.getElementById(v).innerHTML = frases[indice]; 
+     indice++;
+     setTimeout(function(){console.log(indice); rotar(v);},7500); 
+     } 
+     
+     
+     </script> 
+
+
       <link rel='https://api.w.org/' href='wp-json\index.htm'>
       <link rel="alternate" type="application/json+oembed" href="wp-json\oembed\1.0\embed?url=https%3A%2F%cristianosmontequinto.com%2F">
       <link rel="alternate" type="text/xml+oembed" href="wp-json\oembed\1.0\embed-1?url=https%3A%2F%cristianosmontequinto.com%2F&#038;format=xml">
@@ -305,16 +354,12 @@
                         <div class="panel landing-panel isDarkGray" style="background-image: url('wp-content\Ekk-fotos\ParqueLosPinos.jpg');">
                               <div class="container">
                                     <div class="section-heading">
-                                          <h1 class="logo">Cristianos Montequinto</h1>
+                                          <div class="logo"></div>
                                     </div>
+                                     <!-- Textos cambiantes -->
+                                    <div id="columna1" style="height:90px;margin:0px auto; font-size: 1em;"></div> 
+                                    <script type="text/javascript">rotar('columna1');</script>
 
-                                    <p>
-                                          Compartimos del amor de Jesús y Su Palabra en Montequinto y su entorno
-                                    </p>
-
-                                    <!-- <p>Un lugar para crecer</p>
-          <p></p>Damos a conocer a Jesús y motivamos a seguirlo en los diferentes aspectos de la vida</p>
-          <p> Alcanzando, cuidando, creciendo y  desarrollando.</p> -->
                               </div>
 
                               <div class="video-wrap" style="background-image: url('wp-content/Ekk-fotos/ParqueLosPinos.jpg');">
