@@ -37,7 +37,27 @@ jQuery(function ($) {
            
             tracks = [ 
                 
-                 
+                {
+                "track": 0,
+                "name": "2018-08-20 Marcos 5-6 Juan Cabeza",
+                "duration": "",
+                "file": "2018-08-20 Marcos 5-6 Juan Cabeza"
+            },  
+            
+            
+                {
+                "track": 0,
+                "name": "2018-08-12 Marcos 3-4 Pablo Cruz",
+                "duration": "",
+                "file": "2018-08-12 Marcos 3-4 Pablo Cruz"
+            },  
+                
+                {
+                "track": 0,
+                "name": "2018-08-12 Exodo 36-40 Nestor Martinez",
+                "duration": "",
+                "file": "2018-08-12 Exodo 36-40 Nestor Martinez"
+            },  
             
             
             
