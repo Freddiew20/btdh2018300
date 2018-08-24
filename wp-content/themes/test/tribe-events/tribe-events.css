@@ -3,8 +3,8 @@
   font-family: "palanquin", Helvetica, sans-serif;
   font-weight: 400; }
 
-.tribe-theme-hillside h2.tribe-events-page-title, .tribe-theme-hillside .tribe-events-list .tribe-events-list-separator-month span .month-name,
-.tribe-theme-hillside .tribe-events-list .tribe-events-list-separator-month span .year {
+.tribe-theme-betania h2.tribe-events-page-title, .tribe-theme-betania .tribe-events-list .tribe-events-list-separator-month span .month-name,
+.tribe-theme-betania .tribe-events-list .tribe-events-list-separator-month span .year {
   font-family: "freight-display-pro", "Times New Roman", Serif;
   font-weight: 600; }
 
@@ -35,111 +35,111 @@
   text-transform: uppercase;
   letter-spacing: 2px;
   margin: 0; }
-.search-results .container.isContentArea .section-heading, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header .section-heading, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header .section-heading,
-.search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header .section-heading,
-.tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header .section-heading, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list .section-heading, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list .section-heading, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content .section-heading, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content .section-heading,
+.search-results .container.isContentArea .section-heading, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header .section-heading, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header .section-heading,
+.search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header .section-heading,
+.tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header .section-heading, .search-results .tribe-theme-betania .isContentArea.tribe-events-list .section-heading, .tribe-theme-betania .search-results .isContentArea.tribe-events-list .section-heading, .search-results .tribe-theme-betania .isContentArea#tribe-events-content .section-heading, .tribe-theme-betania .search-results .isContentArea#tribe-events-content .section-heading,
 .search-no-results .container.isContentArea .section-heading,
-.search-no-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header .section-heading,
-.tribe-theme-hillside .tribe-events-month .search-no-results .isContentArea#tribe-events-header .section-heading,
-.search-no-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header .section-heading,
-.tribe-theme-hillside .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header .section-heading,
-.search-no-results .tribe-theme-hillside .isContentArea.tribe-events-list .section-heading,
-.tribe-theme-hillside .search-no-results .isContentArea.tribe-events-list .section-heading,
-.search-no-results .tribe-theme-hillside .isContentArea#tribe-events-content .section-heading,
-.tribe-theme-hillside .search-no-results .isContentArea#tribe-events-content .section-heading {
+.search-no-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header .section-heading,
+.tribe-theme-betania .tribe-events-month .search-no-results .isContentArea#tribe-events-header .section-heading,
+.search-no-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header .section-heading,
+.tribe-theme-betania .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header .section-heading,
+.search-no-results .tribe-theme-betania .isContentArea.tribe-events-list .section-heading,
+.tribe-theme-betania .search-no-results .isContentArea.tribe-events-list .section-heading,
+.search-no-results .tribe-theme-betania .isContentArea#tribe-events-content .section-heading,
+.tribe-theme-betania .search-no-results .isContentArea#tribe-events-content .section-heading {
   margin-bottom: 7%; }
-.search-results .container.isContentArea article h2, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article h2, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article h2,
-.search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article h2,
-.tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article h2, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article h2, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article h2, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article h2,
+.search-results .container.isContentArea article h2, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article h2, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article h2,
+.search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article h2,
+.tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article h2, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article h2, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article h2, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article h2,
 .search-no-results .container.isContentArea article h2,
-.search-no-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article h2,
-.tribe-theme-hillside .tribe-events-month .search-no-results .isContentArea#tribe-events-header article h2,
-.search-no-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article h2,
-.tribe-theme-hillside .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article h2,
-.search-no-results .tribe-theme-hillside .isContentArea.tribe-events-list article h2,
-.tribe-theme-hillside .search-no-results .isContentArea.tribe-events-list article h2,
-.search-no-results .tribe-theme-hillside .isContentArea#tribe-events-content article h2,
-.tribe-theme-hillside .search-no-results .isContentArea#tribe-events-content article h2 {
+.search-no-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article h2,
+.tribe-theme-betania .tribe-events-month .search-no-results .isContentArea#tribe-events-header article h2,
+.search-no-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article h2,
+.tribe-theme-betania .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article h2,
+.search-no-results .tribe-theme-betania .isContentArea.tribe-events-list article h2,
+.tribe-theme-betania .search-no-results .isContentArea.tribe-events-list article h2,
+.search-no-results .tribe-theme-betania .isContentArea#tribe-events-content article h2,
+.tribe-theme-betania .search-no-results .isContentArea#tribe-events-content article h2 {
   margin: 0 0 14px; }
-  .search-results .container.isContentArea article h2 a, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article h2 a, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article h2 a,
-  .search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article h2 a,
-  .tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2 a, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article h2 a, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article h2 a, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article h2 a, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article h2 a,
+  .search-results .container.isContentArea article h2 a, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article h2 a, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article h2 a,
+  .search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article h2 a,
+  .tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2 a, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article h2 a, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article h2 a, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article h2 a, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article h2 a,
   .search-no-results .container.isContentArea article h2 a,
-  .search-no-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article h2 a,
-  .tribe-theme-hillside .tribe-events-month .search-no-results .isContentArea#tribe-events-header article h2 a,
-  .search-no-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article h2 a,
-  .tribe-theme-hillside .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article h2 a,
-  .search-no-results .tribe-theme-hillside .isContentArea.tribe-events-list article h2 a,
-  .tribe-theme-hillside .search-no-results .isContentArea.tribe-events-list article h2 a,
-  .search-no-results .tribe-theme-hillside .isContentArea#tribe-events-content article h2 a,
-  .tribe-theme-hillside .search-no-results .isContentArea#tribe-events-content article h2 a {
+  .search-no-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article h2 a,
+  .tribe-theme-betania .tribe-events-month .search-no-results .isContentArea#tribe-events-header article h2 a,
+  .search-no-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article h2 a,
+  .tribe-theme-betania .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article h2 a,
+  .search-no-results .tribe-theme-betania .isContentArea.tribe-events-list article h2 a,
+  .tribe-theme-betania .search-no-results .isContentArea.tribe-events-list article h2 a,
+  .search-no-results .tribe-theme-betania .isContentArea#tribe-events-content article h2 a,
+  .tribe-theme-betania .search-no-results .isContentArea#tribe-events-content article h2 a {
     color: #292728;
     border: 0; }
-    .search-results .container.isContentArea article h2 a:hover, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article h2 a:hover, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article h2 a:hover,
-    .search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article h2 a:hover,
-    .tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2 a:hover, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article h2 a:hover, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article h2 a:hover, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article h2 a:hover, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article h2 a:hover,
+    .search-results .container.isContentArea article h2 a:hover, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article h2 a:hover, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article h2 a:hover,
+    .search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article h2 a:hover,
+    .tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2 a:hover, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article h2 a:hover, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article h2 a:hover, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article h2 a:hover, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article h2 a:hover,
     .search-no-results .container.isContentArea article h2 a:hover,
-    .search-no-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article h2 a:hover,
-    .tribe-theme-hillside .tribe-events-month .search-no-results .isContentArea#tribe-events-header article h2 a:hover,
-    .search-no-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article h2 a:hover,
-    .tribe-theme-hillside .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article h2 a:hover,
-    .search-no-results .tribe-theme-hillside .isContentArea.tribe-events-list article h2 a:hover,
-    .tribe-theme-hillside .search-no-results .isContentArea.tribe-events-list article h2 a:hover,
-    .search-no-results .tribe-theme-hillside .isContentArea#tribe-events-content article h2 a:hover,
-    .tribe-theme-hillside .search-no-results .isContentArea#tribe-events-content article h2 a:hover {
+    .search-no-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article h2 a:hover,
+    .tribe-theme-betania .tribe-events-month .search-no-results .isContentArea#tribe-events-header article h2 a:hover,
+    .search-no-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article h2 a:hover,
+    .tribe-theme-betania .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article h2 a:hover,
+    .search-no-results .tribe-theme-betania .isContentArea.tribe-events-list article h2 a:hover,
+    .tribe-theme-betania .search-no-results .isContentArea.tribe-events-list article h2 a:hover,
+    .search-no-results .tribe-theme-betania .isContentArea#tribe-events-content article h2 a:hover,
+    .tribe-theme-betania .search-no-results .isContentArea#tribe-events-content article h2 a:hover {
       color: #0C7883; }
-.search-results .container.isContentArea article p, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article p, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article p,
-.search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article p,
-.tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article p, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article p, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article p, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article p, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article p,
+.search-results .container.isContentArea article p, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article p, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article p,
+.search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article p,
+.tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article p, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article p, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article p, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article p, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article p,
 .search-no-results .container.isContentArea article p,
-.search-no-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article p,
-.tribe-theme-hillside .tribe-events-month .search-no-results .isContentArea#tribe-events-header article p,
-.search-no-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article p,
-.tribe-theme-hillside .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article p,
-.search-no-results .tribe-theme-hillside .isContentArea.tribe-events-list article p,
-.tribe-theme-hillside .search-no-results .isContentArea.tribe-events-list article p,
-.search-no-results .tribe-theme-hillside .isContentArea#tribe-events-content article p,
-.tribe-theme-hillside .search-no-results .isContentArea#tribe-events-content article p {
+.search-no-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article p,
+.tribe-theme-betania .tribe-events-month .search-no-results .isContentArea#tribe-events-header article p,
+.search-no-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article p,
+.tribe-theme-betania .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article p,
+.search-no-results .tribe-theme-betania .isContentArea.tribe-events-list article p,
+.tribe-theme-betania .search-no-results .isContentArea.tribe-events-list article p,
+.search-no-results .tribe-theme-betania .isContentArea#tribe-events-content article p,
+.tribe-theme-betania .search-no-results .isContentArea#tribe-events-content article p {
   margin-bottom: 16px; }
-.search-results .container.isContentArea article .excerpt-btn, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article .excerpt-btn, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article .excerpt-btn,
-.search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article .excerpt-btn,
-.tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article .excerpt-btn, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article .excerpt-btn, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article .excerpt-btn, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article .excerpt-btn, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article .excerpt-btn,
+.search-results .container.isContentArea article .excerpt-btn, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article .excerpt-btn, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article .excerpt-btn,
+.search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article .excerpt-btn,
+.tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article .excerpt-btn, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article .excerpt-btn, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article .excerpt-btn, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article .excerpt-btn, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article .excerpt-btn,
 .search-no-results .container.isContentArea article .excerpt-btn,
-.search-no-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article .excerpt-btn,
-.tribe-theme-hillside .tribe-events-month .search-no-results .isContentArea#tribe-events-header article .excerpt-btn,
-.search-no-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article .excerpt-btn,
-.tribe-theme-hillside .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article .excerpt-btn,
-.search-no-results .tribe-theme-hillside .isContentArea.tribe-events-list article .excerpt-btn,
-.tribe-theme-hillside .search-no-results .isContentArea.tribe-events-list article .excerpt-btn,
-.search-no-results .tribe-theme-hillside .isContentArea#tribe-events-content article .excerpt-btn,
-.tribe-theme-hillside .search-no-results .isContentArea#tribe-events-content article .excerpt-btn {
+.search-no-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article .excerpt-btn,
+.tribe-theme-betania .tribe-events-month .search-no-results .isContentArea#tribe-events-header article .excerpt-btn,
+.search-no-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article .excerpt-btn,
+.tribe-theme-betania .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article .excerpt-btn,
+.search-no-results .tribe-theme-betania .isContentArea.tribe-events-list article .excerpt-btn,
+.tribe-theme-betania .search-no-results .isContentArea.tribe-events-list article .excerpt-btn,
+.search-no-results .tribe-theme-betania .isContentArea#tribe-events-content article .excerpt-btn,
+.tribe-theme-betania .search-no-results .isContentArea#tribe-events-content article .excerpt-btn {
   display: none; }
-.search-results .container.isContentArea article hr, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article hr, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article hr,
-.search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article hr,
-.tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article hr, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article hr, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article hr, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article hr, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article hr,
+.search-results .container.isContentArea article hr, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article hr, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article hr,
+.search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article hr,
+.tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article hr, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article hr, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article hr, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article hr, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article hr,
 .search-no-results .container.isContentArea article hr,
-.search-no-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article hr,
-.tribe-theme-hillside .tribe-events-month .search-no-results .isContentArea#tribe-events-header article hr,
-.search-no-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article hr,
-.tribe-theme-hillside .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article hr,
-.search-no-results .tribe-theme-hillside .isContentArea.tribe-events-list article hr,
-.tribe-theme-hillside .search-no-results .isContentArea.tribe-events-list article hr,
-.search-no-results .tribe-theme-hillside .isContentArea#tribe-events-content article hr,
-.tribe-theme-hillside .search-no-results .isContentArea#tribe-events-content article hr {
+.search-no-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article hr,
+.tribe-theme-betania .tribe-events-month .search-no-results .isContentArea#tribe-events-header article hr,
+.search-no-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article hr,
+.tribe-theme-betania .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article hr,
+.search-no-results .tribe-theme-betania .isContentArea.tribe-events-list article hr,
+.tribe-theme-betania .search-no-results .isContentArea.tribe-events-list article hr,
+.search-no-results .tribe-theme-betania .isContentArea#tribe-events-content article hr,
+.tribe-theme-betania .search-no-results .isContentArea#tribe-events-content article hr {
   margin-left: 0;
   margin-right: 0; }
-.search-results .container.isContentArea article:last-child hr, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article:last-child hr, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article:last-child hr,
-.search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article:last-child hr,
-.tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article:last-child hr, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article:last-child hr, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article:last-child hr, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article:last-child hr, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article:last-child hr,
+.search-results .container.isContentArea article:last-child hr, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article:last-child hr, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article:last-child hr,
+.search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article:last-child hr,
+.tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article:last-child hr, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article:last-child hr, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article:last-child hr, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article:last-child hr, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article:last-child hr,
 .search-no-results .container.isContentArea article:last-child hr,
-.search-no-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article:last-child hr,
-.tribe-theme-hillside .tribe-events-month .search-no-results .isContentArea#tribe-events-header article:last-child hr,
-.search-no-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article:last-child hr,
-.tribe-theme-hillside .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article:last-child hr,
-.search-no-results .tribe-theme-hillside .isContentArea.tribe-events-list article:last-child hr,
-.tribe-theme-hillside .search-no-results .isContentArea.tribe-events-list article:last-child hr,
-.search-no-results .tribe-theme-hillside .isContentArea#tribe-events-content article:last-child hr,
-.tribe-theme-hillside .search-no-results .isContentArea#tribe-events-content article:last-child hr {
+.search-no-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article:last-child hr,
+.tribe-theme-betania .tribe-events-month .search-no-results .isContentArea#tribe-events-header article:last-child hr,
+.search-no-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article:last-child hr,
+.tribe-theme-betania .tribe-events-week-grid .search-no-results .isContentArea#tribe-events-header article:last-child hr,
+.search-no-results .tribe-theme-betania .isContentArea.tribe-events-list article:last-child hr,
+.tribe-theme-betania .search-no-results .isContentArea.tribe-events-list article:last-child hr,
+.search-no-results .tribe-theme-betania .isContentArea#tribe-events-content article:last-child hr,
+.tribe-theme-betania .search-no-results .isContentArea#tribe-events-content article:last-child hr {
   display: none; }
 .search-results .site-frame .frame-bottom,
 .search-no-results .site-frame .frame-bottom {
@@ -181,35 +181,35 @@
     line-height: 20px;
     letter-spacing: 1px; } }
 @media only screen and (max-width: 540px) {
-  .search-results .container.isContentArea article h2, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article h2, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article h2,
-  .search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article h2,
-  .tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article h2, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article h2, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article h2, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article h2 {
+  .search-results .container.isContentArea article h2, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article h2, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article h2,
+  .search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article h2,
+  .tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article h2, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article h2, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article h2, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article h2 {
     font-size: 26px;
     line-height: 30px; } }
 @media only screen and (max-width: 400px) {
   .search-results .hero .section-subheading h3 {
     font-size: 15px;
     line-height: 19px; }
-  .search-results .container.isContentArea article h2, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article h2, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article h2,
-  .search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article h2,
-  .tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article h2, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article h2, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article h2, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article h2 {
+  .search-results .container.isContentArea article h2, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article h2, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article h2,
+  .search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article h2,
+  .tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article h2, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article h2, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article h2, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article h2, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article h2 {
     font-size: 22px;
     line-height: 26px; }
-  .search-results .container.isContentArea article p, .search-results .tribe-theme-hillside .tribe-events-month .isContentArea#tribe-events-header article p, .tribe-theme-hillside .tribe-events-month .search-results .isContentArea#tribe-events-header article p,
-  .search-results .tribe-theme-hillside .tribe-events-week-grid .isContentArea#tribe-events-header article p,
-  .tribe-theme-hillside .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article p, .search-results .tribe-theme-hillside .isContentArea.tribe-events-list article p, .tribe-theme-hillside .search-results .isContentArea.tribe-events-list article p, .search-results .tribe-theme-hillside .isContentArea#tribe-events-content article p, .tribe-theme-hillside .search-results .isContentArea#tribe-events-content article p {
+  .search-results .container.isContentArea article p, .search-results .tribe-theme-betania .tribe-events-month .isContentArea#tribe-events-header article p, .tribe-theme-betania .tribe-events-month .search-results .isContentArea#tribe-events-header article p,
+  .search-results .tribe-theme-betania .tribe-events-week-grid .isContentArea#tribe-events-header article p,
+  .tribe-theme-betania .tribe-events-week-grid .search-results .isContentArea#tribe-events-header article p, .search-results .tribe-theme-betania .isContentArea.tribe-events-list article p, .tribe-theme-betania .search-results .isContentArea.tribe-events-list article p, .search-results .tribe-theme-betania .isContentArea#tribe-events-content article p, .tribe-theme-betania .search-results .isContentArea#tribe-events-content article p {
     font-size: 15px;
     line-height: 25px; } }
-.wrapper, .container, .tribe-theme-hillside .tribe-events-month #tribe-events-header,
-.tribe-theme-hillside .tribe-events-week-grid #tribe-events-header, .tribe-theme-hillside .tribe-events-list, .tribe-theme-hillside.tribe-filters-closed #tribe-events-content, .tribe-theme-hillside.tribe-filters-open #tribe-events-content, .tribe-theme-hillside #tribe-events-content, #fancyWrap, .tribe-theme-hillside .tribe-events-loop, .tribe-theme-hillside .tribe-events-list .type-tribe_events {
+.wrapper, .container, .tribe-theme-betania .tribe-events-month #tribe-events-header,
+.tribe-theme-betania .tribe-events-week-grid #tribe-events-header, .tribe-theme-betania .tribe-events-list, .tribe-theme-betania.tribe-filters-closed #tribe-events-content, .tribe-theme-betania.tribe-filters-open #tribe-events-content, .tribe-theme-betania #tribe-events-content, #fancyWrap, .tribe-theme-betania .tribe-events-loop, .tribe-theme-betania .tribe-events-list .type-tribe_events {
   *zoom: 1; }
-  .wrapper:before, .container:before, .tribe-theme-hillside .tribe-events-month #tribe-events-header:before,
-  .tribe-theme-hillside .tribe-events-week-grid #tribe-events-header:before, .tribe-theme-hillside .tribe-events-list:before, .tribe-theme-hillside.tribe-filters-closed #tribe-events-content:before, .tribe-theme-hillside.tribe-filters-open #tribe-events-content:before, .tribe-theme-hillside #tribe-events-content:before, #fancyWrap:before, .tribe-theme-hillside .tribe-events-loop:before, .tribe-theme-hillside .tribe-events-list .type-tribe_events:before, .wrapper:after, .container:after, .tribe-theme-hillside .tribe-events-month #tribe-events-header:after,
-  .tribe-theme-hillside .tribe-events-week-grid #tribe-events-header:after, .tribe-theme-hillside .tribe-events-list:after, .tribe-theme-hillside.tribe-filters-closed #tribe-events-content:after, .tribe-theme-hillside.tribe-filters-open #tribe-events-content:after, .tribe-theme-hillside #tribe-events-content:after, #fancyWrap:after, .tribe-theme-hillside .tribe-events-loop:after, .tribe-theme-hillside .tribe-events-list .type-tribe_events:after {
+  .wrapper:before, .container:before, .tribe-theme-betania .tribe-events-month #tribe-events-header:before,
+  .tribe-theme-betania .tribe-events-week-grid #tribe-events-header:before, .tribe-theme-betania .tribe-events-list:before, .tribe-theme-betania.tribe-filters-closed #tribe-events-content:before, .tribe-theme-betania.tribe-filters-open #tribe-events-content:before, .tribe-theme-betania #tribe-events-content:before, #fancyWrap:before, .tribe-theme-betania .tribe-events-loop:before, .tribe-theme-betania .tribe-events-list .type-tribe_events:before, .wrapper:after, .container:after, .tribe-theme-betania .tribe-events-month #tribe-events-header:after,
+  .tribe-theme-betania .tribe-events-week-grid #tribe-events-header:after, .tribe-theme-betania .tribe-events-list:after, .tribe-theme-betania.tribe-filters-closed #tribe-events-content:after, .tribe-theme-betania.tribe-filters-open #tribe-events-content:after, .tribe-theme-betania #tribe-events-content:after, #fancyWrap:after, .tribe-theme-betania .tribe-events-loop:after, .tribe-theme-betania .tribe-events-list .type-tribe_events:after {
     content: " ";
     display: table; }
-  .wrapper:after, .container:after, .tribe-theme-hillside .tribe-events-month #tribe-events-header:after,
-  .tribe-theme-hillside .tribe-events-week-grid #tribe-events-header:after, .tribe-theme-hillside .tribe-events-list:after, .tribe-theme-hillside.tribe-filters-closed #tribe-events-content:after, .tribe-theme-hillside.tribe-filters-open #tribe-events-content:after, .tribe-theme-hillside #tribe-events-content:after, #fancyWrap:after, .tribe-theme-hillside .tribe-events-loop:after, .tribe-theme-hillside .tribe-events-list .type-tribe_events:after {
+  .wrapper:after, .container:after, .tribe-theme-betania .tribe-events-month #tribe-events-header:after,
+  .tribe-theme-betania .tribe-events-week-grid #tribe-events-header:after, .tribe-theme-betania .tribe-events-list:after, .tribe-theme-betania.tribe-filters-closed #tribe-events-content:after, .tribe-theme-betania.tribe-filters-open #tribe-events-content:after, .tribe-theme-betania #tribe-events-content:after, #fancyWrap:after, .tribe-theme-betania .tribe-events-loop:after, .tribe-theme-betania .tribe-events-list .type-tribe_events:after {
     clear: both; }
 
 * {
@@ -238,7 +238,7 @@ body {
   body.contactHovered, body.eventsHovered, body.modalOpen, body.searchOpen, body.shareOpen, body.noScroll {
     overflow: hidden !important; }
 
-a, .tribe-theme-hillside #tribe-bar-form input[type=text], .tribe-theme-hillside #tribe-bar-form .tribe-bar-submit input[type=submit], .tribe-theme-hillside #tribe_events_filters_wrapper.tribe-events-filters-horizontal input[type=submit] {
+a, .tribe-theme-betania #tribe-bar-form input[type=text], .tribe-theme-betania #tribe-bar-form .tribe-bar-submit input[type=submit], .tribe-theme-betania #tribe_events_filters_wrapper.tribe-events-filters-horizontal input[type=submit] {
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease; }
 
@@ -275,23 +275,23 @@ input:focus {
   padding: 0;
   position: relative; }
 
-.container, .tribe-theme-hillside .tribe-events-month #tribe-events-header,
-.tribe-theme-hillside .tribe-events-week-grid #tribe-events-header, .tribe-theme-hillside .tribe-events-list, .tribe-theme-hillside.tribe-filters-closed #tribe-events-content, .tribe-theme-hillside.tribe-filters-open #tribe-events-content, .tribe-theme-hillside #tribe-events-content {
+.container, .tribe-theme-betania .tribe-events-month #tribe-events-header,
+.tribe-theme-betania .tribe-events-week-grid #tribe-events-header, .tribe-theme-betania .tribe-events-list, .tribe-theme-betania.tribe-filters-closed #tribe-events-content, .tribe-theme-betania.tribe-filters-open #tribe-events-content, .tribe-theme-betania #tribe-events-content {
   max-width: 1280px;
   width: 86%;
   margin: 0 auto;
   position: relative; }
-  .container.narrowContent, .tribe-theme-hillside .tribe-events-month .narrowContent#tribe-events-header,
-  .tribe-theme-hillside .tribe-events-week-grid .narrowContent#tribe-events-header, .tribe-theme-hillside .narrowContent.tribe-events-list, .tribe-theme-hillside .narrowContent#tribe-events-content {
+  .container.narrowContent, .tribe-theme-betania .tribe-events-month .narrowContent#tribe-events-header,
+  .tribe-theme-betania .tribe-events-week-grid .narrowContent#tribe-events-header, .tribe-theme-betania .narrowContent.tribe-events-list, .tribe-theme-betania .narrowContent#tribe-events-content {
     max-width: 800px; }
-  .container.narrowContentSm, .tribe-theme-hillside .tribe-events-month .narrowContentSm#tribe-events-header,
-  .tribe-theme-hillside .tribe-events-week-grid .narrowContentSm#tribe-events-header, .tribe-theme-hillside .narrowContentSm.tribe-events-list, .tribe-theme-hillside .narrowContentSm#tribe-events-content {
+  .container.narrowContentSm, .tribe-theme-betania .tribe-events-month .narrowContentSm#tribe-events-header,
+  .tribe-theme-betania .tribe-events-week-grid .narrowContentSm#tribe-events-header, .tribe-theme-betania .narrowContentSm.tribe-events-list, .tribe-theme-betania .narrowContentSm#tribe-events-content {
     max-width: 545px; }
-  .container.narrowContentMd, .tribe-theme-hillside .tribe-events-month .narrowContentMd#tribe-events-header,
-  .tribe-theme-hillside .tribe-events-week-grid .narrowContentMd#tribe-events-header, .tribe-theme-hillside .narrowContentMd.tribe-events-list, .tribe-theme-hillside .narrowContentMd#tribe-events-content {
+  .container.narrowContentMd, .tribe-theme-betania .tribe-events-month .narrowContentMd#tribe-events-header,
+  .tribe-theme-betania .tribe-events-week-grid .narrowContentMd#tribe-events-header, .tribe-theme-betania .narrowContentMd.tribe-events-list, .tribe-theme-betania .narrowContentMd#tribe-events-content {
     max-width: 650px; }
-  .container.narrowContentLg, .tribe-theme-hillside .tribe-events-month .narrowContentLg#tribe-events-header,
-  .tribe-theme-hillside .tribe-events-week-grid .narrowContentLg#tribe-events-header, .tribe-theme-hillside .narrowContentLg.tribe-events-list, .tribe-theme-hillside .narrowContentLg#tribe-events-content {
+  .container.narrowContentLg, .tribe-theme-betania .tribe-events-month .narrowContentLg#tribe-events-header,
+  .tribe-theme-betania .tribe-events-week-grid .narrowContentLg#tribe-events-header, .tribe-theme-betania .narrowContentLg.tribe-events-list, .tribe-theme-betania .narrowContentLg#tribe-events-content {
     max-width: 950px; }
 
 .col {
@@ -390,81 +390,81 @@ input:focus {
 .fancybox-mobile {
   top: 80px !important; }
 
-.tribe-theme-hillside .site-frame .frame-bottom {
+.tribe-theme-betania .site-frame .frame-bottom {
   display: none; }
-.tribe-theme-hillside .events-header {
+.tribe-theme-betania .events-header {
   padding-left: 5%; }
-  .tribe-theme-hillside .events-header h3 {
+  .tribe-theme-betania .events-header h3 {
     padding: 20px 0;
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 2px; }
-.tribe-theme-hillside #tribe-events-bar {
+.tribe-theme-betania #tribe-events-bar {
   margin-bottom: 0; }
-.tribe-theme-hillside #tribe-bar-form {
+.tribe-theme-betania #tribe-bar-form {
   background-color: #EED0B5; }
-  .tribe-theme-hillside #tribe-bar-form input[type=text] {
+  .tribe-theme-betania #tribe-bar-form input[type=text] {
     border: none;
     border-bottom: 1px solid #d6b597;
     outline: none; }
-    .tribe-theme-hillside #tribe-bar-form input[type=text]:focus {
+    .tribe-theme-betania #tribe-bar-form input[type=text]:focus {
       border-color: #0C7883; }
-  .tribe-theme-hillside #tribe-bar-form .tribe-bar-submit input[type=submit] {
+  .tribe-theme-betania #tribe-bar-form .tribe-bar-submit input[type=submit] {
     background-color: transparent;
     color: #0C7883;
     border: 1px solid #0C7883;
     margin-top: 4px; }
-    .tribe-theme-hillside #tribe-bar-form .tribe-bar-submit input[type=submit]:hover {
+    .tribe-theme-betania #tribe-bar-form .tribe-bar-submit input[type=submit]:hover {
       color: #B6E0D8;
       background-color: #0C7883; }
-.tribe-theme-hillside #tribe-bar-views .tribe-bar-views-inner {
+.tribe-theme-betania #tribe-bar-views .tribe-bar-views-inner {
   background-color: #B6E0D8; }
-.tribe-theme-hillside #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a {
+.tribe-theme-betania #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a {
   background-color: #B6E0D8; }
-  .tribe-theme-hillside #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a:hover {
+  .tribe-theme-betania #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a:hover {
     background-color: #92c0b7; }
-.tribe-theme-hillside #tribe_events_filters_wrapper.tribe-events-filters-horizontal {
+.tribe-theme-betania #tribe_events_filters_wrapper.tribe-events-filters-horizontal {
   margin-top: 0 !important;
   background-color: #F6F6F6; }
-  .tribe-theme-hillside #tribe_events_filters_wrapper.tribe-events-filters-horizontal .tribe_events_filters_show_filters {
+  .tribe-theme-betania #tribe_events_filters_wrapper.tribe-events-filters-horizontal .tribe_events_filters_show_filters {
     font-size: 14px; }
-  .tribe-theme-hillside #tribe_events_filters_wrapper.tribe-events-filters-horizontal input[type=submit] {
+  .tribe-theme-betania #tribe_events_filters_wrapper.tribe-events-filters-horizontal input[type=submit] {
     background-color: transparent;
     border-radius: 0;
     color: #0C7883 !important;
     border: 1px solid #0C7883;
     margin-top: 4px; }
-    .tribe-theme-hillside #tribe_events_filters_wrapper.tribe-events-filters-horizontal input[type=submit]:hover {
+    .tribe-theme-betania #tribe_events_filters_wrapper.tribe-events-filters-horizontal input[type=submit]:hover {
       color: #B6E0D8 !important;
       background-color: #0C7883; }
-.tribe-theme-hillside .below-header {
+.tribe-theme-betania .below-header {
   border: 1px solid #292728;
   border-top: 0; }
-.tribe-theme-hillside h2.tribe-events-page-title {
+.tribe-theme-betania h2.tribe-events-page-title {
   font-size: 40px;
   line-height: 44px;
   margin-bottom: 5%; }
-.tribe-theme-hillside #tribe-events-pg-template {
+.tribe-theme-betania #tribe-events-pg-template {
   margin: 0 auto;
   max-width: 100%; }
-.tribe-theme-hillside #tribe-events-header {
+.tribe-theme-betania #tribe-events-header {
   margin-bottom: 3%; }
-  .tribe-theme-hillside #tribe-events-header .tribe-events-sub-nav {
+  .tribe-theme-betania #tribe-events-header .tribe-events-sub-nav {
     font-size: 16px; }
-.tribe-theme-hillside .tribe-events-user-recurrence-toggle {
+.tribe-theme-betania .tribe-events-user-recurrence-toggle {
   font-size: 12px;
   font-style: normal; }
-.tribe-theme-hillside .tribe-events-month #tribe-events-header,
-.tribe-theme-hillside .tribe-events-week-grid #tribe-events-header {
+.tribe-theme-betania .tribe-events-month #tribe-events-header,
+.tribe-theme-betania .tribe-events-week-grid #tribe-events-header {
   margin-bottom: 3%; }
-.tribe-theme-hillside .tribe-events-loop .tribe-events-event-meta {
+.tribe-theme-betania .tribe-events-loop .tribe-events-event-meta {
   margin-bottom: 0; }
-.tribe-theme-hillside #tribe-events-footer {
+.tribe-theme-betania #tribe-events-footer {
   margin-top: 3%;
   margin-bottom: 3%; }
-  .tribe-theme-hillside #tribe-events-footer .tribe-events-sub-nav {
+  .tribe-theme-betania #tribe-events-footer .tribe-events-sub-nav {
     font-size: 16px; }
-.tribe-theme-hillside .tribe-events-list .tribe-events-list-separator-month {
+.tribe-theme-betania .tribe-events-list .tribe-events-list-separator-month {
   background-color: transparent;
   vertical-align: top;
   border-top: 1px solid #292728;
@@ -476,7 +476,7 @@ input:focus {
   position: relative;
   margin-top: -1px;
   visibility: hidden; }
-  .tribe-theme-hillside .tribe-events-list .tribe-events-list-separator-month span {
+  .tribe-theme-betania .tribe-events-list .tribe-events-list-separator-month span {
     position: absolute;
     left: 0;
     display: block;
@@ -484,195 +484,195 @@ input:focus {
     display: inline-block;
     word-spacing: 180px;
     margin-top: 3%; }
-    .tribe-theme-hillside .tribe-events-list .tribe-events-list-separator-month span .month-name,
-    .tribe-theme-hillside .tribe-events-list .tribe-events-list-separator-month span .year {
+    .tribe-theme-betania .tribe-events-list .tribe-events-list-separator-month span .month-name,
+    .tribe-theme-betania .tribe-events-list .tribe-events-list-separator-month span .year {
       display: block;
       text-align: center; }
-    .tribe-theme-hillside .tribe-events-list .tribe-events-list-separator-month span .month-name {
+    .tribe-theme-betania .tribe-events-list .tribe-events-list-separator-month span .month-name {
       font-size: 40px;
       line-height: 44px; }
-    .tribe-theme-hillside .tribe-events-list .tribe-events-list-separator-month span .year {
+    .tribe-theme-betania .tribe-events-list .tribe-events-list-separator-month span .year {
       font-size: 24px;
       line-height: 28px;
       @inlude letSpc(2px); }
-.tribe-theme-hillside .tribe-events-list .type-tribe_events {
+.tribe-theme-betania .tribe-events-list .type-tribe_events {
   width: calc(100% - 200px);
   display: inline-block;
   vertical-align: top;
   float: right;
   padding: 2.5% 0;
   border-bottom: 1px solid #292728; }
-.tribe-theme-hillside .tribe-events-list.tribe-events-day .type-tribe_events {
+.tribe-theme-betania .tribe-events-list.tribe-events-day .type-tribe_events {
   float: none;
   width: 100%; }
-.tribe-theme-hillside .tribe-events-list.tribe-events-day .tribe-events-event-meta {
+.tribe-theme-betania .tribe-events-list.tribe-events-day .tribe-events-event-meta {
   margin-bottom: 20px; }
-.tribe-theme-hillside .tribe-events-list.tribe-events-day #tribe-events-day .tribe-events-content {
+.tribe-theme-betania .tribe-events-list.tribe-events-day #tribe-events-day .tribe-events-content {
   display: block;
   float: none;
   padding: 0;
   width: 100%; }
-.tribe-theme-hillside .tribe-events-single#tribe-events-content {
+.tribe-theme-betania .tribe-events-single#tribe-events-content {
   padding: 7%; }
-  .tribe-theme-hillside .tribe-events-single#tribe-events-content .tribe-events-single-event-description a {
+  .tribe-theme-betania .tribe-events-single#tribe-events-content .tribe-events-single-event-description a {
     text-decoration: underline; }
-.tribe-theme-hillside .tribe-events-single #tribe-events-footer {
+.tribe-theme-betania .tribe-events-single #tribe-events-footer {
   min-width: 100%; }
-.tribe-theme-hillside .tribe-events-venue .tribe-events-back,
-.tribe-theme-hillside .tribe-events-organizer .tribe-events-back {
+.tribe-theme-betania .tribe-events-venue .tribe-events-back,
+.tribe-theme-betania .tribe-events-organizer .tribe-events-back {
   padding-top: 5%;
   padding-left: 7%; }
-.tribe-theme-hillside .tribe-events-venue .tribe-events-venue-meta,
-.tribe-theme-hillside .tribe-events-venue .tribe-events-organizer-meta,
-.tribe-theme-hillside .tribe-events-organizer .tribe-events-venue-meta,
-.tribe-theme-hillside .tribe-events-organizer .tribe-events-organizer-meta {
+.tribe-theme-betania .tribe-events-venue .tribe-events-venue-meta,
+.tribe-theme-betania .tribe-events-venue .tribe-events-organizer-meta,
+.tribe-theme-betania .tribe-events-organizer .tribe-events-venue-meta,
+.tribe-theme-betania .tribe-events-organizer .tribe-events-organizer-meta {
   border-bottom: 1px solid #ddd;
   margin: 0;
   padding: 40px 7% 2%; }
-  .tribe-theme-hillside .tribe-events-venue .tribe-events-venue-meta h2.tribe-venue-name,
-  .tribe-theme-hillside .tribe-events-venue .tribe-events-organizer-meta h2.tribe-venue-name,
-  .tribe-theme-hillside .tribe-events-organizer .tribe-events-venue-meta h2.tribe-venue-name,
-  .tribe-theme-hillside .tribe-events-organizer .tribe-events-organizer-meta h2.tribe-venue-name {
+  .tribe-theme-betania .tribe-events-venue .tribe-events-venue-meta h2.tribe-venue-name,
+  .tribe-theme-betania .tribe-events-venue .tribe-events-organizer-meta h2.tribe-venue-name,
+  .tribe-theme-betania .tribe-events-organizer .tribe-events-venue-meta h2.tribe-venue-name,
+  .tribe-theme-betania .tribe-events-organizer .tribe-events-organizer-meta h2.tribe-venue-name {
     display: inline-block; }
-.tribe-theme-hillside .tribe-events-venue .tribe-events-list,
-.tribe-theme-hillside .tribe-events-organizer .tribe-events-list {
+.tribe-theme-betania .tribe-events-venue .tribe-events-list,
+.tribe-theme-betania .tribe-events-organizer .tribe-events-list {
   margin-top: 7% !important; }
 
-.tribe-theme-hillside.tribe-events-uses-geolocation .tribe-bar-geoloc-filter, .tribe-theme-hillside.tribe-events-uses-geolocation .tribe-bar-date-filter, .tribe-theme-hillside.tribe-events-uses-geolocation .tribe-bar-search-filter, .tribe-theme-hillside.tribe-events-uses-geolocation .tribe-bar-submit {
+.tribe-theme-betania.tribe-events-uses-geolocation .tribe-bar-geoloc-filter, .tribe-theme-betania.tribe-events-uses-geolocation .tribe-bar-date-filter, .tribe-theme-betania.tribe-events-uses-geolocation .tribe-bar-search-filter, .tribe-theme-betania.tribe-events-uses-geolocation .tribe-bar-submit {
   padding: 13px; }
 
-.tribe-theme-hillside.single-tribe_events .tribe-events-schedule h2 {
+.tribe-theme-betania.single-tribe_events .tribe-events-schedule h2 {
   display: inline; }
-.tribe-theme-hillside.single-tribe_events .tribe-events-schedule .recurringinfo {
+.tribe-theme-betania.single-tribe_events .tribe-events-schedule .recurringinfo {
   font-size: inherit; }
-.tribe-theme-hillside.single-tribe_events .tribe-events-schedule {
+.tribe-theme-betania.single-tribe_events .tribe-events-schedule {
   margin-bottom: 30px; }
-.tribe-theme-hillside.single-tribe_events #tribe-events-header {
+.tribe-theme-betania.single-tribe_events #tribe-events-header {
   display: none; }
-.tribe-theme-hillside.single-tribe_events .tribe-events-event-meta {
+.tribe-theme-betania.single-tribe_events .tribe-events-event-meta {
   font-size: inherit; }
-.tribe-theme-hillside .recurringinfo {
+.tribe-theme-betania .recurringinfo {
   font-size: inherit;
   vertical-align: baseline;
   margin-left: 4px; }
-  .tribe-theme-hillside .recurringinfo .tribe-events-divider {
+  .tribe-theme-betania .recurringinfo .tribe-events-divider {
     margin-right: 4px; }
 
 @media only screen and (max-width: 1280px) {
-  .tribe-theme-hillside .tribe-events-single#tribe-events-content {
+  .tribe-theme-betania .tribe-events-single#tribe-events-content {
     padding: 7% 0; } }
 @media only screen and (max-width: 1140px) {
-  .tribe-theme-hillside h2.tribe-events-page-title {
+  .tribe-theme-betania h2.tribe-events-page-title {
     font-size: 36px;
     line-height: 40px; } }
 @media only screen and (max-width: 960px) {
-  .tribe-theme-hillside .below-header {
+  .tribe-theme-betania .below-header {
     border: 0; }
-  .tribe-theme-hillside.tribe-events-uses-geolocation .tribe-bar-mini .tribe-bar-geoloc-filter, .tribe-theme-hillside.tribe-events-uses-geolocation .tribe-bar-mini .tribe-bar-date-filter, .tribe-theme-hillside.tribe-events-uses-geolocation .tribe-bar-mini .tribe-bar-search-filter, .tribe-theme-hillside.tribe-events-uses-geolocation .tribe-bar-mini .tribe-bar-submit {
+  .tribe-theme-betania.tribe-events-uses-geolocation .tribe-bar-mini .tribe-bar-geoloc-filter, .tribe-theme-betania.tribe-events-uses-geolocation .tribe-bar-mini .tribe-bar-date-filter, .tribe-theme-betania.tribe-events-uses-geolocation .tribe-bar-mini .tribe-bar-search-filter, .tribe-theme-betania.tribe-events-uses-geolocation .tribe-bar-mini .tribe-bar-submit {
     padding: 7px; }
-  .tribe-theme-hillside #tribe-bar-collapse-toggle {
+  .tribe-theme-betania #tribe-bar-collapse-toggle {
     background-color: #EED0B5; }
-  .tribe-theme-hillside h2.tribe-events-page-title {
+  .tribe-theme-betania h2.tribe-events-page-title {
     font-size: 32px;
     line-height: 36px; }
-  .tribe-theme-hillside .tribe-events-single#tribe-events-content {
+  .tribe-theme-betania .tribe-events-single#tribe-events-content {
     padding: 7% 0; } }
 @media only screen and (max-width: 768px) {
-  .tribe-theme-hillside .tribe-events-month #tribe-events-header,
-  .tribe-theme-hillside .tribe-events-week-grid #tribe-events-header {
+  .tribe-theme-betania .tribe-events-month #tribe-events-header,
+  .tribe-theme-betania .tribe-events-week-grid #tribe-events-header {
     min-width: 100%;
     margin-bottom: 3%; }
-  .tribe-theme-hillside .tribe-events-month,
-  .tribe-theme-hillside .tribe-events-week-grid {
+  .tribe-theme-betania .tribe-events-month,
+  .tribe-theme-betania .tribe-events-week-grid {
     max-width: 95% !important; }
-  .tribe-theme-hillside #tribe-events-footer {
+  .tribe-theme-betania #tribe-events-footer {
     min-width: 100%;
     margin-top: 3%;
     margin-bottom: 3%; }
-  .tribe-theme-hillside #tribe-events-pg-template {
+  .tribe-theme-betania #tribe-events-pg-template {
     padding: 0; }
-    .tribe-theme-hillside #tribe-events-pg-template .tribe-events-list {
+    .tribe-theme-betania #tribe-events-pg-template .tribe-events-list {
       width: 95% !important;
       margin-left: 2.5% !important;
       margin-right: 2.5% !important; }
-      .tribe-theme-hillside #tribe-events-pg-template .tribe-events-list .type-tribe_events {
+      .tribe-theme-betania #tribe-events-pg-template .tribe-events-list .type-tribe_events {
         padding: 4% 0; }
-      .tribe-theme-hillside #tribe-events-pg-template .tribe-events-list .tribe-events-list-separator-month {
+      .tribe-theme-betania #tribe-events-pg-template .tribe-events-list .tribe-events-list-separator-month {
         float: none;
         margin: 20px 0; }
-        .tribe-theme-hillside #tribe-events-pg-template .tribe-events-list .tribe-events-list-separator-month span {
+        .tribe-theme-betania #tribe-events-pg-template .tribe-events-list .tribe-events-list-separator-month span {
           position: static;
           width: 100%;
           display: block; }
-      .tribe-theme-hillside #tribe-events-pg-template .tribe-events-list .type-tribe_events {
+      .tribe-theme-betania #tribe-events-pg-template .tribe-events-list .type-tribe_events {
         width: 100%;
         display: block;
         float: none; }
-      .tribe-theme-hillside #tribe-events-pg-template .tribe-events-list .tribe-event-schedule-details {
+      .tribe-theme-betania #tribe-events-pg-template .tribe-events-list .tribe-event-schedule-details {
         padding: 0 12px; }
-  .tribe-theme-hillside #tribe_events_filter_control #tribe_events_filters_toggle {
+  .tribe-theme-betania #tribe_events_filter_control #tribe_events_filters_toggle {
     color: #0C7883;
     background-color: transparent; }
-  .tribe-theme-hillside #tribe_events_filter_control a {
+  .tribe-theme-betania #tribe_events_filter_control a {
     border: 0;
     height: inherit;
     padding: 5px 5px !important; }
-  .tribe-theme-hillside #tribe_events_filter_control a + a {
+  .tribe-theme-betania #tribe_events_filter_control a + a {
     margin: 0; }
-  .tribe-theme-hillside #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-previous a,
-  .tribe-theme-hillside #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-next a,
-  .tribe-theme-hillside #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-previous a,
-  .tribe-theme-hillside #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-next a {
+  .tribe-theme-betania #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-previous a,
+  .tribe-theme-betania #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-next a,
+  .tribe-theme-betania #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-previous a,
+  .tribe-theme-betania #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-next a {
     display: inline-block;
     background-color: transparent !important;
     color: #0C7883;
     border: none; }
-    .tribe-theme-hillside #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-previous a:hover,
-    .tribe-theme-hillside #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-next a:hover,
-    .tribe-theme-hillside #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-previous a:hover,
-    .tribe-theme-hillside #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-next a:hover {
+    .tribe-theme-betania #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-previous a:hover,
+    .tribe-theme-betania #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-next a:hover,
+    .tribe-theme-betania #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-previous a:hover,
+    .tribe-theme-betania #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-next a:hover {
       opacity: 1;
       color: #292728;
       background-color: transparent !important; }
-  .tribe-theme-hillside #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-next a,
-  .tribe-theme-hillside #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-next a {
+  .tribe-theme-betania #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-next a,
+  .tribe-theme-betania #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-next a {
     padding-right: 24px;
     padding-left: 0; }
-  .tribe-theme-hillside #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-previous a,
-  .tribe-theme-hillside #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-previous a {
+  .tribe-theme-betania #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-previous a,
+  .tribe-theme-betania #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-previous a {
     padding-left: 24px;
     padding-right: 0; }
-  .tribe-theme-hillside .tribe-events-venue .tribe-events-back,
-  .tribe-theme-hillside .tribe-events-organizer .tribe-events-back {
+  .tribe-theme-betania .tribe-events-venue .tribe-events-back,
+  .tribe-theme-betania .tribe-events-organizer .tribe-events-back {
     padding-left: 2.5%; }
-  .tribe-theme-hillside .tribe-events-venue .tribe-events-venue-meta,
-  .tribe-theme-hillside .tribe-events-venue .tribe-events-organizer-meta,
-  .tribe-theme-hillside .tribe-events-organizer .tribe-events-venue-meta,
-  .tribe-theme-hillside .tribe-events-organizer .tribe-events-organizer-meta {
+  .tribe-theme-betania .tribe-events-venue .tribe-events-venue-meta,
+  .tribe-theme-betania .tribe-events-venue .tribe-events-organizer-meta,
+  .tribe-theme-betania .tribe-events-organizer .tribe-events-venue-meta,
+  .tribe-theme-betania .tribe-events-organizer .tribe-events-organizer-meta {
     padding: 40px 2.5% 2%; }
-  .tribe-theme-hillside.single-tribe_events .tribe-events-single-event-title {
+  .tribe-theme-betania.single-tribe_events .tribe-events-single-event-title {
     font-size: 1.5em;
     line-height: 1.3em; }
-  .tribe-theme-hillside.tribe-filters-closed #tribe-events-content, .tribe-theme-hillside.tribe-filters-open #tribe-events-content,
-  .tribe-theme-hillside #tribe-events-content {
+  .tribe-theme-betania.tribe-filters-closed #tribe-events-content, .tribe-theme-betania.tribe-filters-open #tribe-events-content,
+  .tribe-theme-betania #tribe-events-content {
     width: 95%; } }
 @media only screen and (max-width: 580px) {
-  .tribe-theme-hillside h2.tribe-events-page-title {
+  .tribe-theme-betania h2.tribe-events-page-title {
     font-size: 28px;
     line-height: 32px; }
-  .tribe-theme-hillside .tribe-events-list h2.tribe-events-list-event-title {
+  .tribe-theme-betania .tribe-events-list h2.tribe-events-list-event-title {
     font-size: 1.2em;
     line-height: 1.2em; }
-  .tribe-theme-hillside.single-tribe_events .tribe-events-single-event-title {
+  .tribe-theme-betania.single-tribe_events .tribe-events-single-event-title {
     font-size: 1.3em;
     line-height: 1.1em; } }
 @media only screen and (max-width: 400px) {
-  .tribe-theme-hillside #tribe-events-pg-template .tribe-events-list .type-tribe_events {
+  .tribe-theme-betania #tribe-events-pg-template .tribe-events-list .type-tribe_events {
     padding: 7% 0; }
-  .tribe-theme-hillside #tribe-events-pg-template .tribe-events-list h2.tribe-events-list-event-title {
+  .tribe-theme-betania #tribe-events-pg-template .tribe-events-list h2.tribe-events-list-event-title {
     font-size: 1.1em;
     line-height: 1.1em; }
-  .tribe-theme-hillside.single-tribe_events .tribe-events-single-event-title {
+  .tribe-theme-betania.single-tribe_events .tribe-events-single-event-title {
     font-size: 1.15em;
     line-height: 1.2em; } }
 

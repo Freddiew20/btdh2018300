@@ -28,66 +28,80 @@ jQuery(function ($) {
             playing = false,
             mediaPath = '../wp-content/Ekk-audios/',
             extension = '',
-            tracks = [
+            //{
+            //    "track": 0,
+            //    "name": " ",
+            //    "duration": "",
+            //    "file": " "
+           // },
+           
+            tracks = [ 
+                
+                 
+            
+            
+            
             {
                 "track": 0,
                 "name": "2018-07-22 Mateo 26 J.Antonio Mesa",
-                "duration": "24:07",
+                "duration": "",
                 "file": "2018-07-22 Mateo 26 J.Antonio Mesa"
-            }, {
+            }, 
+            
+            {
                 "track": 0,
                 "name": "2018-07-22 Éxodo 21-15 Efraín Morata",
-                "duration": "28:36",
+                "duration": "",
                 "file": "2018-07-22 Éxodo 21-15 Efraín Morata"
             }, {
                 "track": 0,
                 "name": "2018-07-15 Mateo 25 Juan Cabeza",
-                "duration": "31:20",
+                "duration": "",
                 "file": "2018-07-15 Mateo 25 Juan Cabeza"
             },{
                 "track": 0,
                 "name": "2018-07-15 Éxodo 16-20 Juan Barrera",
-                "duration": "21:18",
+                "duration": "",
                 "file": "2018-07-15 Éxodo 16-20 Juan Barrera"
             },{
                 "track": 0,
                 "name": "2018-07-08 Mateo 24 Pablo Cruz",
-                "duration": "21:20",
+                "duration": "",
                 "file": "2018-07-08 Mateo 24 Pablo Cruz"
             },{
                 "track": 0,
-                "name": "Archivo",
-                "duration": "21:18",
+                "name": "2018-07-08 Éxodo 11-15 Efraín Morata",
+                "duration": "",
                 "file": "2018-07-08 Éxodo 11-15 Efraín Morata"
             },{
                 "track": 0,
                 "name": "2018-06-24 Mateo 23-24 Efraín Morata",
-                "duration": "31:20",
+                "duration": "",
                 "file": "2018-06-24 Mateo 23-24 Efraín Morata"
             },{
                 "track": 0,
                 "name": "2018-06-18 La justicia de Dios Efraín Morata",
-                "duration": "20:35",
+                "duration": "",
                 "file": "2018-06-18 La justicia de Dios Efraín Morata"
             },{
                 "track": 0,
                 "name": "2018-06-03 Mateo 19-20 J.Antonio Mesa",
-                "duration": "21:40",
+                "duration": "",
                 "file": "2018-06-03 Mateo 19-20 J.Antonio Mesa"
             },{
                 "track": 0,
                 "name": "2018-06-03 Génesis 46-50 Efraín Morata",
-                "duration": "19:00",
+                "duration": "",
                 "file": "2018-06-03 Génesis 46-50 Efraín Morata"
             },{
                 "track": 0,
                 "name": "2018-05-20 Mateo 17-18 J.Antonio Mesa",
-                "duration": "24:12",
+                "duration": "",
                 "file": "2018-05-20 Mateo 17-18 J.Antonio Mesa"
             },{
                 "track": 0,
                 "name": "2018-05-20 Génesis 41-45 Juan Barrera",
-                "duration": "31:20",
+                "duration": "",
                 "file": "2018-05-20 Génesis 41-45 Juan Barrera"
             }
         ],
@@ -103,7 +117,7 @@ jQuery(function ($) {
                     <div class="plItem"> \
                         <span class="plNum">' + trackNumber + '.</span> \
                         <span class="plTitle">' + trackName + '</span> \
-                        <span class="plLength">' + trackDuration + ' <a href="'+mediaPath+trackName+'.mp3" download="'+trackName+'.mp3">Descargar</a> \
+                        <span class="plLength">' + trackDuration + ' <a href="'+mediaPath+trackName+'.mp3" download="'+trackName+'.mp3"><i class="fa fa-download" aria-hidden="true"></i></a> \
                         </span> \
                     </div> \
                 </li>');

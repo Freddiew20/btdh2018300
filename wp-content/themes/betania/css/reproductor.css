@@ -14,11 +14,9 @@ html,body {
 background-color:#0665a2;
 color:#fff;
 font-size:1.05rem;
-font-family:"Oxygen", HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-weight:300;
 letter-spacing:.025rem;
 line-height:1.618;
-padding:1rem 0;
 }
 
 *,::before,::after {
@@ -43,7 +41,7 @@ box-sizing:border-box;
 
 p { color:#fff; display:block; font-size:.9rem; font-weight:400; margin:0 0 2px; }
 
-a,a:visited { color:#8cc3e6; outline:0; text-decoration:underline; }
+a,a:visited { color:#8cc3e6; outline:0; }
 a:hover,a:focus { color:#bbdef5; }
 p a,p a:visited { line-height:inherit; }
 
@@ -192,11 +190,9 @@ html,body {
 background-color:#0665a2;
 color:#fff;
 font-size:1.05rem;
-font-family:"Oxygen", HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-weight:300;
 letter-spacing:.025rem;
 line-height:1.618;
-padding:1rem 0;
 }
 
 *,::before,::after {
@@ -221,7 +217,7 @@ box-sizing:border-box;
 
 p { color:#fff; display:block; font-size:.9rem; font-weight:400; margin:0 0 2px; }
 
-a,a:visited { color:#8cc3e6; outline:0; text-decoration:underline; }
+a,a:visited { color:#8cc3e6; outline:0; }
 a:hover,a:focus { color:#bbdef5; }
 p a,p a:visited { line-height:inherit; }
 

@@ -1713,11 +1713,11 @@ body.home .site-wrapper {
   .main-menu .logo-center {
     display: inline-block;
     vertical-align: top;
-    width: 106px;
-    height: 59px;
+    width: 109px;
+    height: 39px;
     background-repeat: no-repeat;
     margin-top: 20px;
-    margin-left: -5px;
+    margin-left: -10px;
     background-image: url("../img/header-logo@2x.png");
     background-size: 109px 39px; }
   .main-menu .first-half,
@@ -1933,14 +1933,14 @@ body.home .site-wrapper {
     text-decoration: underline; }
     .contact-services-flyout a:hover {
       color: #0C7883; }
-  .contact-services-flyout .hillside-login {
+  .contact-services-flyout .betania-login {
     margin-bottom: 10%; }
-    .contact-services-flyout .hillside-login .btn {
+    .contact-services-flyout .betania-login .btn {
       display: block;
       color: #0C7883;
       border-color: #0C7883;
       text-decoration: none; }
-      .contact-services-flyout .hillside-login .btn:hover {
+      .contact-services-flyout .betania-login .btn:hover {
         color: #B6E0D8;
         background-color: #0C7883; }
   .contact-services-flyout .important-info {
@@ -2548,7 +2548,7 @@ body.eventsHovered .events-trigger span {
   .contact-services-flyout ul li {
     font-size: 18px;
     line-height: 25px; }
-  .contact-services-flyout .hillside-login,
+  .contact-services-flyout .betania-login,
   .contact-services-flyout .important-info {
     margin-bottom: 7%; }
   .contact-services-flyout .important-info .left-col {
@@ -3019,7 +3019,7 @@ body.eventsHovered .events-trigger span {
       margin-top: 20px; } }
 @media only screen and (max-width: 400px) {
   .home .landing-panel .logo {
-    width: 200;
+    width: 200px;
     height: 60px;
     background-size: 200px 60px; }
   .home .panel p {

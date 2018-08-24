@@ -3,6 +3,8 @@
 
 <head>
       <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
       <title>Cristianos Montequinto</title>
 
       <link rel="apple-touch-icon-precomposed" sizes="114x114" href="wp-content\themes\betania\img\icons\apple-touch-icon-114x114.png">
@@ -32,6 +34,10 @@
                   background: none !important;
                   padding: 0 !important;
             }
+            homeScrollSnap{
+                  background-color: red;
+            }
+            
       </style>
       <link rel='stylesheet' id='html5blank-css' href='wp-content\themes\betania\css\site.css?ver=1.0' media='all'>
       <link rel='stylesheet' id='dashicons-css' href='wp-includes\css\dashicons.min.css?ver=4.9.6' media='all'>
@@ -40,25 +46,6 @@
       <link rel='stylesheet' id='sccss_style-css' href='index.css?sccss=1&#038;ver=4.9.6' media='all'>
       <script type='text/javascript' src='wp-content\themes\betania\js\libs\jquery.js?ver=2.1.1'></script>
       <script type='text/javascript' src='wp-content\themes\betania\js\libs\retina.min.js?ver=1.3.0'></script>
-     <script type="text/javascript">
-  var indice = 0, frases = new Array(); 
- frases[0] = "PRUEBA DE SLIDER QUE CAMBIA"; 
- frases[1] = "Cambia mucho..."; 
- frases[2] = "Soy un crack del javascript"; 
- frases[3] = "FUNCIONA OUH YEAH"; 
- 
- indice = Math.random()*(frases.length); 
- indice = Math.floor(indice); 
- 
- function rotar(v) {
- if (indice >= frases.length ) indice = Math.floor(Math.random()*(frases.length)); 
- document.getElementById(v).innerHTML = frases[indice]; 
- indice++;
- setTimeout(function(){console.log(indice); rotar(v);},1000); 
- } 
- 
- 
- </script> 
 
 <!-- <p>
            Compartimos del amor de Jesús y Su Palabra en Montequinto y su entorno
@@ -80,7 +67,7 @@
      
      function rotar(v) {
      if (indice >= frases.length ) indice = Math.floor(Math.random()*(frases.length)); 
-     document.getElementById(v).innerHTML = frases[indice]; 
+     document.getElementById(v).innerHTML = "<label>"+ frases[indice] +"</label>"; 
      indice++;
      setTimeout(function(){console.log(indice); rotar(v);},7500); 
      } 
@@ -129,7 +116,7 @@
                                           <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="contenido/accionsocial.htm">Reparto de alimentos</a></li>
                                           <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="contenido/oracion.htm">Oración</a></li>
                                           <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="contenido/consejeria.htm">Consejería</a></li>
-                                          <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="../contenido/visitaciones.htm">Visitaciones hogar</a></li>
+                                          <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="../contenido/visitaciones.htm">Visitaciones</a></li>
                                     </ul>
                         </li>
 
@@ -142,12 +129,12 @@
                   <ul id="menu-main-menu-last-half" class="menu">
                         <li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330">
                               <!-- <a href="contenido/suscribete.htm">Suscríbete</a> -->
-                              <a href="#">Suscríbete</a>
+                              <a href="contenido/suscribete.htm">Suscríbete</a>
                         </li>
 
                         <li id="menu-item-10752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10752">
                               <!-- <a href="contenido/contacto.htm">Contacto</a> -->
-                              <a href="#">Contacto</a>
+                              <a href="contenido/contacto.htm">Contacto</a>
                         </li>
                   </ul>
             </div>
@@ -189,7 +176,7 @@
                                                             <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="contenido/accionsocial.htm">Reparto de alimentos</a></li>
                                                             <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="contenido/oracion.htm">Oración</a></li>
                                                             <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="contenido/consejeria.htm">Consejería</a></li>
-                                                            <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="../contenido/visitaciones.htm">Visitaciones hogar</a></li>
+                                                            <li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11509"><a href="../contenido/visitaciones.htm">Visitaciones</a></li>
                                                       </ul>
                                           </li>
                   
@@ -202,12 +189,12 @@
                                     <ul id="menu-main-menu-last-half" class="menu">
                                           <li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330">
                                                 <!-- <a href="contenido/suscribete.htm">Suscríbete</a> -->
-                                                <a href="#">Suscribete</a>
+                                                <a href="contenido/suscribete.htm">Suscríbete</a>
                                           </li>
                   
                                           <li id="menu-item-10752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10752">
                                                 <!-- <a href="contenido/contacto.htm">Contacto</a> -->
-                                                <a href="#">Contacto</a>
+                                                <a href="contenido/contacto.htm">Contacto</a>
                                           </li>
                                     </ul>
                   </div>
@@ -221,7 +208,7 @@
                   <div class="inner">
                         <ul id="menu-main-menu-last-half-1" class="menu">
                               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330">
-                                    <a href="#">Suscríbete</a>
+                                    <a href="contenido/suscribete.htm">Suscríbete</a>
                               </li>
 
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10752">
@@ -231,7 +218,7 @@
                               <!-- <li class="isSearch menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="#">Contacto</a></li> -->
 
                               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14">
-                                    <a href="#">Contacto</a>
+                                    <a href="contenido/contacto.htm">Contacto</a>
                               </li>
                         </ul>
                   </div>
@@ -351,13 +338,13 @@
                   <!-- PAGE SPECIFIC CONDITIONALS -->
 
                   <div class="homeScrollSnap">
-                        <div class="panel landing-panel isDarkGray" style="background-image: url('wp-content\Ekk-fotos\ParqueLosPinos.jpg');">
+                        <div class="panel landing-panel isDarkGray" style="background-image: url('wp-content/Ekk-fotos/ParqueLosPinos.jpg');">
                               <div class="container">
                                     <div class="section-heading">
                                           <div class="logo"></div>
                                     </div>
                                      <!-- Textos cambiantes -->
-                                    <div id="columna1" style="height:90px;margin:0px auto; font-size: 1em;"></div> 
+                                    <div id="columna1" style="height:90px;margin:0px auto; font-size: 1.3em;"></div> 
                                     <script type="text/javascript">rotar('columna1');</script>
 
                               </div>
@@ -365,7 +352,7 @@
                               <div class="video-wrap" style="background-image: url('wp-content/Ekk-fotos/ParqueLosPinos.jpg');">
                                     <video autoplay="" muted="" loop="" data-keepplaying="" id="landing-video">
 
-                                          <source src="wp-content\Ekk-videos\intro.mp4" type="video/mp4">
+                                          <source src="wp-content/Ekk-videos/intro.mp4" type="video/mp4">
                                           </source>
                                     </video>
                               </div>
