@@ -35,7 +35,64 @@ jQuery(function ($) {
             //    "file": " "
            // },
            
-            tracks = [ 
+            tracks = [
+                
+               
+               
+               
+            
+             {
+                "track": 0,
+                "name": "2018-09-09 Marcos 11-12 Néstor",
+                "duration": "",
+                "file": "2018-09-09 Marcos 11-12 Néstor"
+            },
+                
+                
+                
+             
+             {
+                "track": 0,
+                "name": "2018-09-09 Levítico 16-20 Jose Antonio",
+                "duration": "",
+                "file": "2018-09-09 Levítico 16-20 Jose Antonio"
+            },  
+                
+                
+                
+                
+             {
+                "track": 0,
+                "name": "2018-09-02 Marcos 9-10 Juan Cabeza",
+                "duration": "",
+                "file": "2018-09-02 Marcos 9-10 Juan Cabeza"
+            },      
+                
+                
+                
+             {
+                "track": 0,
+                "name": "2018-09-02 Levitico 11-15 Efrain Morata",
+                "duration": "",
+                "file": "2018-09-02 Levitico 11-15 Efrain Morata"
+            },      
+                
+                
+               {
+                "track": 0,
+                "name": "2018-08-26 Marcos 7 y 8 Nestor Martinez",
+                "duration": "",
+                "file": "2018-08-26 Marcos 7 y 8 Nestor Martinez"
+            },   
+                
+                
+                
+                {
+                "track": 0,
+                "name": "2018-08-26 Levitico 6-10 Efrain Morata",
+                "duration": "",
+                "file": "2018-08-26 Levitico 6-10 Efrain Morata"
+            },  
                 
                 {
                 "track": 0,
@@ -58,6 +115,23 @@ jQuery(function ($) {
                 "duration": "",
                 "file": "2018-08-12 Exodo 36-40 Nestor Martinez"
             },  
+            
+            
+             {
+                "track": 0,
+                "name": "2018-08-05 Marcos 1-2 J.Antonio Mesa",
+                "duration": "",
+                "file": "2018-08-05 Marcos 1-2 J.Antonio Mesa"
+            }, 
+            
+            
+            
+            {
+                "track": 0,
+                "name": "2018-08-05 Exodo 31-35 Juan Barrera",
+                "duration": "",
+                "file": "2018-08-05 Exodo 31-35 Juan Barrera"
+            }, 
             
             
             
